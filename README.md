@@ -2,7 +2,6 @@
 
 A simplified **social media platform simulator** built using **C++** and core **object-oriented programming (OOP)** principles. This university project demonstrates user authentication, content creation (posts and stories), social interactions (likes, comments, following), and file handling for persistent storage.
 
----
 
 ## 📌 Features
 
@@ -30,7 +29,7 @@ A simplified **social media platform simulator** built using **C++** and core **
   - Inheritance and polymorphism for `User`, `Account`, `Post`, and `Story`.
   - Encapsulation in user management and authentication logic.
 
----
+
 
 ## 🧱 Project Structure
 
@@ -40,7 +39,7 @@ A simplified **social media platform simulator** built using **C++** and core **
 - `Post` and `Story`: Shareable content with interaction features.
 - `main()`: CLI interface for interaction with the platform.
 
----
+
 
 ## 🛠️ How It Works
 
@@ -62,7 +61,7 @@ A simplified **social media platform simulator** built using **C++** and core **
    - Delete Account
    - Exit & Save Data
 
----
+
 
 ## 🚫 Limitations
 
@@ -70,11 +69,4 @@ A simplified **social media platform simulator** built using **C++** and core **
 - Basic command-line interface.
 - Password encryption is only for demo purposes and not secure for production.
 
----
-
-## 📂 License
-
-This project is licensed under the **MIT License**. See `LICENSE` file for details.
-
----
 
